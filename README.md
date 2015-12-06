@@ -1,2 +1,2 @@
-# paruljoshi.github.io
+# Parul Joshi
 Github Pages Repository
