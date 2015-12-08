@@ -44,6 +44,9 @@ a {
 	position: absolute;
 	height: 400px;
 	width: 500px;
+	font-size: 20px;
+	font-family: 'Helvetica Neue';
+	color: #fff;
 }
 
 .photo{
@@ -161,13 +164,15 @@ a {
 .s2 {
 	background: #bce1f1;
 	color: #000;
+	height: 850px;
 }
 .s2 a {
 	color: #fff;
 }
 
 .s3 {
-	background: #1b83b3;
+	background: #B9BDCF;
+	color: #000;
 }
 
 
@@ -225,6 +230,13 @@ h2.zero,p.zero {
 } 
 
 h1.title{
+	font-weight: bold;
+	font-size: 60px;
+	font-family: 'Helvetica Neue';
+	color: #0977bc;
+}
+
+h1.pagetitle{
 	font-weight: bold;
 	font-size: 60px;
 	font-family: 'Helvetica Neue';
@@ -333,7 +345,7 @@ h2.subtitle{
 		 
 		   padding-right: 20px;
 		   padding-bottom: 25px;
-		   margin: 10px;
+		   margin: 10px 40px 40px;
 		   float: left;
 		   border: 10px solid #fff;
 		   overflow: hidden;
@@ -372,7 +384,6 @@ h2.subtitle{
 		}
 		.view p {
 		   font-family: 'Helvetica Neue';
-		   font-style: italic;
 		   font-size: 16px;
 		   position: relative;
 		   color: #fff;
