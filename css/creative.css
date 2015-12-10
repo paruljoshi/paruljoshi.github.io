@@ -64,6 +64,18 @@ p {
     color: rgba(255,255,255,.7);
 }
 
+.mainBio{
+    width: 50%;
+}
+
+.bio{
+    text-align: left;
+}
+
+.profilePik{
+   float: right;
+}
+
 section {
     padding: 100px 0;
 }
