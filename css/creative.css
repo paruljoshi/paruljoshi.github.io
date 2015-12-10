@@ -103,7 +103,7 @@ p {
 
 .education{
     float: left;
-    padding-left: 100px;
+    padding-left: 70px;
     margin-top: -170px;
 }
 
@@ -112,7 +112,7 @@ img.education{
 }
 .skills{
     float: right;
-    padding-right: 300px;
+    padding-left: 150px;
     margin-top: 10px;
 }
 
