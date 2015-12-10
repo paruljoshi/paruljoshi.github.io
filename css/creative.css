@@ -36,6 +36,31 @@ a:focus {
     color: #eb3812;
 }
 
+h2.section-heading-education{
+    height: 50px;
+    margin-top: 0;
+}
+
+hr.primary-education {
+    max-width: 50px;
+    border-color: #f05f40;
+    border-width: 3px;
+    margin-left: 120px;
+}
+
+h2.section-heading-skills{
+    height: 35px;
+    margin-top: 0;
+}
+
+hr.primary-skills {
+    max-width: 50px;
+    border-color: #f05f40;
+    border-width: 3px;
+    margin-left: 80px;
+}
+
+
 h1,
 h2,
 h3,
@@ -74,6 +99,20 @@ p {
 
 .profilePik{
    float: right;
+}
+
+.education{
+    float: left;
+    padding-left: 100px;
+}
+
+img.education{
+    padding-left: 40px;
+}
+.skills{
+    float: right;
+    padding-right: 300px;
+    margin-top: 10px;
 }
 
 section {
