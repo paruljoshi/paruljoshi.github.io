@@ -86,6 +86,11 @@ sub {
 img {
   border: 0;
 }
+
+img.image-container{
+  widht: 100%;
+}
+
 svg:not(:root) {
   overflow: hidden;
 }
